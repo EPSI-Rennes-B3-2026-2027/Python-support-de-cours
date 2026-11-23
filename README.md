@@ -12,7 +12,7 @@ Voici ci-dessous le sommaire de ce que vous avez vu en "e-learning".
 -->
 
 # Introduction à Python et environnement de développement
-## Mise en place de l'environnement
+## A) Mise en place de l'environnement
 ### Installation de l’interpréteur Python  
 ### Quel IDE utiliser ?
 ### Qu’est-ce qu’un environnement virtuel et comment le mettre en place ?  
@@ -20,7 +20,7 @@ Voici ci-dessous le sommaire de ce que vous avez vu en "e-learning".
 ### Comment afficher une valeur dans la console ?  
 ### Comment demander une saisie à l’utilisateur ?  
 # Python - Les bases
-## Variables, structures de controles ( Groupe B - ASRBD )
+## B) Variables, structures de controles ( ASRBD )
 ### Qu'est-ce qu'une variable ?
 ### Qu'est-ce qu'une constante ?
 ### Quels sont les types de données ?
@@ -30,37 +30,37 @@ Voici ci-dessous le sommaire de ce que vous avez vu en "e-learning".
 ### Manipuler les chaînes de caractères
 ### Conditions et opérateurs de comparaison
 ### Opérateurs logiques
-## Les différents types de collections et leurs particularités
+## C) Les différents types de collections et leurs particularités
 ### Liste
 ### Tuple
 ### Dictionnaire
 ### Set
 ### Opérations entre types numériques
-## Variables, structures de controles ( Groupe C - ASRBD )
+## D) Variables, structures de controles ( ASRBD )
 ### La boucle for ("pour")
 ### La boucle while ("tant que")
 ### Le break
 ### Le continue
-## Fonctions
+## E) Fonctions
 ### Les fonctions natives (ou builtin)
 ### Les fonctions 
 ### *args et **kwargs
-## Les fichiers
+## F) Les fichiers
 ### Qu'est-ce qu'un fichier plat?
 ### Qu'est-ce qu'un fichier binaire?
 ### Comment lire un fichier avec Python?
 ### Comment écrire un fichier avec Python?
 # Python - Les bibliothèques
-## Modules
+## G) Modules
 ### Quels sont les modules natifs en Python ?
 ### Quels sont les modules très populaires ?
 ### Qu’est-ce que “PIP” ? Doit-on l'utiliser ? Qu'est-ce qui existe d'autre ?
 ### Le fichier requirements.txt, le fichier pyproject.toml
-## Echanges de données (API)
+## H) Echanges de données (API)
 ### Le format de données JSON
 ### Module tinyDB
 # Python - Approfondissements
-## Informations complémentaires
+## I) Informations complémentaires
 ### La docstring
 ### Le type "date" (manipulation de dates, affichage au format, timezones )
 ### Switch/Case en Python
@@ -69,13 +69,13 @@ Voici ci-dessous le sommaire de ce que vous avez vu en "e-learning".
 ### Le if ternaire
 ### Les Exceptions
 ### Le try / except / else / finally
-## Les classes et les objets en python
+## J) Les classes et les objets en python
 ### Les classes :
 ### Création d'une instance
 ### Le @property
-## L'encapsulation
+## K) L'encapsulation
 ### Les méthodes magiques
-## Le polymorphisme
+## L) Le polymorphisme
 ### Les interfaces et les classes abstraites
 #### Les classes abstraites
 #### Les interfaces 
@@ -85,4 +85,4 @@ Voici ci-dessous le sommaire de ce que vous avez vu en "e-learning".
 ### Les itérateurs
 ### Les générateurs
 ### Les fonctions imbriquées
-## Les décorateurs
+## M) Les décorateurs
